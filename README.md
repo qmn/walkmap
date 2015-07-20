@@ -27,3 +27,14 @@ Copyright
 For the source code, see LICENSE. The map data is copyrighted by
 OpenStreetMap contributors; full license information is available at
 http://www.openstreetmap.org/copyright.
+
+Preview
+-------
+
+See the SVG (2.3 MB) at
+
+	https://www.ocf.berkeley.edu/~qmn/assets/walkmap.svg
+
+or the PNG (859 KB) at
+
+	https://www.ocf.berkeley.edu/~qmn/assets/walkmap.png
